@@ -3,4 +3,8 @@
 
 #DougLifeThugLife
 
+<<<<<<< HEAD
 #Here is my comment for Branch 2 - The best branch of them all
+=======
+#Added 'new-branch-1' comment here
+>>>>>>> origin/master
